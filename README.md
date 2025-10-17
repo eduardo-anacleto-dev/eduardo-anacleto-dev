@@ -1,7 +1,7 @@
 <h1>Olá, devs! Sou Eduardo Anacleto 👋 </h1>
 
 <h3>Estudante de Desenvolvimento de Sistemas na ETEC-Raposo Tavares.</h3>
-<h4>Nesta área da TI, como foco principal, aprendo imersamente sobre desenvolvimento de sistemas, como banco de dados, web/apps, desenvolvimento front & back end.</h4>
+<h4>Nesta área da TI, como foco principal, aprendo imersamente sobre desenvolvimento de sistemas, dentro disso, aprendo banco de dados, web/apps, desenvolvimento front & back end.</h4>
 
 <h2>Linguagens que estudo</h2>
 <li>Html/css: estrutura front-end</li>
