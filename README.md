@@ -1,13 +1,13 @@
-<h1>Olá, devs! Sou Eduardo Anacleto 👋 </h1>
+# Olá, devs! Sou Eduardo Anacleto 👋
 
-<h3>Estudante de Desenvolvimento de Sistemas na ETEC-Raposo Tavares.</h3>
-<h4>Nesta área da TI, como foco principal, aprendo imersamente sobre desenvolvimento de sistemas, dentro disso, aprendo banco de dados, web/apps, desenvolvimento front & back end.</h4>
+### Estudante de Desenvolvimento de Sistemas na ETEC-Raposo Tavares.
+<h4>Nesta área da TI, como foco principal, aprendo imersamente sobre desenvolvimento de sistemas, dentro disso, aprendo banco de dados, web/apps, desenvolvimento front & back end.
 
-<h2>Linguagens de Software </h2>
-<li>JavaScript: Desenvolvimento full-stack com o uso de node.js, react.js e express</li>
-<li> MySql: estrutura de banco de dados </li>
+## Linguagens de Software 
+ * JavaScript: Desenvolvimento full-stack com o uso de node.js, react.js e express
+ * MySql: estrutura de banco de dados 
 
-<h3 align="left"> Linguagens:</h3>
+### Linguagens:
 
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="50"/> </a> 
   
@@ -24,8 +24,14 @@
 
   <p> <a href=""> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Idea-Dark.svg" height="50" width="60" align-itens="left"> </p>
 
-  <h3 align="left"> Redes sociais: </h3>
+ 
 <p align="left">
 <a href="https://instagram.com/duzin_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="duzin_a" height="50" width="60"> </a>
 </p>
 
+## Minhas redes sociais
+<p align="left">
+<a href="https://instagram.com/duzin_a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="duzin_a" height="50" width="60"> </a>
+</p>
+
+<p align="left"> <a href="www.linkedin.com/in/eduardoasouza" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/LinkedIn.svg"  height="50" width="60"> </a> </p>
