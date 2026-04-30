@@ -1,37 +1,40 @@
 # Olá, devs! Sou Eduardo Anacleto 👋
 
 ### Estudante de Desenvolvimento de Sistemas na ETEC-Raposo Tavares.
-<h4>Nesta área da TI, como foco principal, aprendo imersamente sobre desenvolvimento de sistemas, dentro disso, aprendo banco de dados, web/apps, desenvolvimento front & back end.
+
+Nesta área da TI, como foco principal, aprendo imersamente sobre desenvolvimento de sistemas, dentro disso, aprendo banco de dados, web/apps, desenvolvimento front & back end.
+
+---
 
 ## Linguagens de Software 
- * JavaScript: Desenvolvimento full-stack com o uso de node.js, react.js e express
- * MySql: estrutura de banco de dados 
+- JavaScript: Desenvolvimento full-stack com o uso de Node.js, React.js e Express  
+- MySQL: Estrutura de banco de dados  
 
-### Linguagens:
+---
 
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="50"/> </a> 
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="50"/> </a> 
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="50"> </a> </p>
+## Linguagens:
 
-  <h2> Ferramentas: </h2>
-  <p> 
-  <a href="https://git-scm.com/"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Git.svg" height="50" width="60"> </a>
-  </p>
-
-  <p> <a href="https://code.visualstudio.com/"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/VSCode-Dark.svg"  height="50" width="60"> </p>
-
-  <p> <a href=""> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Idea-Dark.svg" height="50" width="60" align-itens="left"> </p>
-
- 
-<p align="left">
-<a href="https://instagram.com/duzin_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="duzin_a" height="50" width="60"> </a>
+<p>
+  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60"></a>
+  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"></a>
 </p>
 
-## Minhas redes sociais
-<p align="left">
-<a href="https://instagram.com/duzin_a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="duzin_a" height="50" width="60"> </a>
+---
+
+## Ferramentas:
+
+<p>
+  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="60"></a>
+  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="60"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Idea-Dark.svg" width="60"></a>
 </p>
 
-<p align="left"> <a href="www.linkedin.com/in/eduardoasouza" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/LinkedIn.svg"  height="50" width="60"> </a> </p>
+---
+
+## Minhas redes sociais:
+
+<p>
+  <a href="https://instagram.com/duzin_a"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="60"></a>
+  <a href="https://www.linkedin.com/in/eduardoasouza"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="60"></a>
+</p>
